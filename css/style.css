@@ -368,7 +368,7 @@ ul.dropdown li { position: relative;
  left: 0;
  }
  ul.dropdown .dropdown-inside { background: #333; }
- ul.dropdown .dropdown-inside a:hover { background: #efefef; }
+ ul.dropdown .dropdown-inside a:hover { background: #555; }
 @media (max-width: 1199px){
 	li{
 	
@@ -462,7 +462,7 @@ header{
 .fleft, .fright, .fcenter{
 	width: 40%;
 	margin: auto;
-	margin-top: 20px;
+	margin-top: 0px;
   min-height: 400px ;
 }
 
